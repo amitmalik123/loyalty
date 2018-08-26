@@ -24,5 +24,12 @@ public class demoTest {
 		int b=20;
 		System.out.println(b/a);
 	}
+	
+	@Test
+	public void mul(){
+		int a=10;
+		int b=20;
+		System.out.println(b*a);
+	}
 
 }
